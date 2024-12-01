@@ -1,1 +1,2 @@
-# Daily-Goal-Planner
+The To-Do List App helps you stay organized by allowing you to easily add tasks with descriptions, set priorities, and delete completed or unnecessary tasks. It provides a simple, clutter-free way to track your progress. The Daily Goal Planner lets you set and prioritize your goals for the day, break them down into manageable tasks, and track your progress to stay motivated. Together, these tools help you stay on top of your responsibilities and work towards your daily and long-term objectives.
+TechStack - react.js, javascript, css, html
